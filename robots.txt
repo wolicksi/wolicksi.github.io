@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wolicksi.github.io/sitemap
+Sitemap: https://wolicksi.github.io/app/sitemap
+Sitemap: https://wolicksi.github.io/assets/sitemap
+Sitemap: https://wolicksi.github.io/css/sitemap
+Sitemap: https://wolicksi.github.io/includes/sitemap
+Sitemap: https://wolicksi.github.io/item/sitemap
+Sitemap: https://wolicksi.github.io/src/sitemap
